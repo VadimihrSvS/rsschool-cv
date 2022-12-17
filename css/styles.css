@@ -100,6 +100,23 @@ main {
   width: 10%;
 }
 
+code {
+
+}
+
+.example {
+  text-align: left;
+  margin-left: 40%;
+}
+
+#indent1 {
+margin-left: 5%;
+}
+
+#indent2 {
+margin-left: 10%;
+}
+
 footer {
     background-color: #66BFBF;
     padding: 25px;
